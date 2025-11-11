@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ☕ Buy Me A Coffee
+title: ☕ Buy Me A Coffeeeeeee
 type: 'about'
 permalink: /buymecoffee/
 ---
