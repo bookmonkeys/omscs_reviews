@@ -549,16 +549,7 @@
         "department": "CSE",
         "name": "High Performance Computing"
     },
-    {
-        "number": "6240",
-        "aliases": "[]",
-        "id": "CSE-6240",
-        "foundational": "false",
-        "deprecated": "false",
-        "link": null,
-        "department": "CSE",
-        "name": "Web Search & Text Mining"
-    },
+    
     {
         "number": "6242",
         "aliases": "[\"DVA\"]",
